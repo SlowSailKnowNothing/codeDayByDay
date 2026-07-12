@@ -6,7 +6,8 @@
 
 | 题目 | 标签 | 首次完成 | 已复习次数 | 下次复习 | 掌握度 | 复习备注 |
 | --- | --- | --- | ---: | --- | --- | --- |
-|  |  |  | 0 |  |  |  |
+| #1 [Two Sum](https://leetcode.cn/problems/two-sum/description/) | 数组、哈希表 | 2026-07-11 | 0 | **2026-07-12** | 待评估 | 第 1 次复习到期 |
+| #9 [Palindrome Number](https://leetcode.cn/problems/palindrome-number/) | 数学、双指针 | 2026-07-12 | 0 | 2026-07-13 | 待评估 | 第 1 次复习 |
 
 ## 掌握度标准
 
