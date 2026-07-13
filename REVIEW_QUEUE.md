@@ -6,8 +6,9 @@
 
 | 题目 | 标签 | 首次完成 | 已复习次数 | 下次复习 | 掌握度 | 复习备注 |
 | --- | --- | --- | ---: | --- | --- | --- |
-| #1 [Two Sum](https://leetcode.cn/problems/two-sum/description/) | 数组、哈希表 | 2026-07-11 | 0 | **2026-07-12** | 待评估 | 第 1 次复习到期 |
-| #9 [Palindrome Number](https://leetcode.cn/problems/palindrome-number/) | 数学、双指针 | 2026-07-12 | 0 | 2026-07-13 | 待评估 | 第 1 次复习 |
+| #1 [Two Sum](https://leetcode.cn/problems/two-sum/description/) | 数组、哈希表 | 2026-07-11 | 1 | **2026-07-14** | 稳 | 第 1 次复习于 2026-07-13 完成；可独立完成 |
+| #9 [Palindrome Number](https://leetcode.cn/problems/palindrome-number/) | 数学、数字拆解 | 2026-07-12 | 1 | 2026-07-15 | 虚 | 第 1 次复习于 2026-07-13 完成；能独立完成，但数字拆解仍需强化 |
+| #167 [Two Sum II - Input Array Is Sorted](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/) | 数组、双指针 | 2026-07-13 | 0 | 2026-07-14 | 稳 | 首次完成；可独立完成 |
 
 ## 掌握度标准
 
